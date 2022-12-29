@@ -4,6 +4,9 @@ This is the release code for :
 [Traceable Automatic Feature Transformation via Cascading Actor-Critic Agents](https://arxiv.org/abs/2212.13402) 
 which is accepted by SDM 2023!
 
+
+![image](https://user-images.githubusercontent.com/13342088/209976599-863e0586-0748-4e7a-9458-c21d34fe0831.png)
+
 Recommended ref:
 ```
 Meng Xiao, Dongjie Wang, Min Wu, Ziyue Qiao, Pengfei Wang, Kunpeng Liu, Yuanchun Zhou, Yanjie Fu. Traceable Automatic Feature Transformation via Cascading Actor-Critic Agents. SIAM International Conference on Data Mining 2023, 2023
@@ -25,7 +28,6 @@ Specifically, we formulate the feature transformation task as an iterative, nest
 ***
 
 
-![image](https://user-images.githubusercontent.com/13342088/209976599-863e0586-0748-4e7a-9458-c21d34fe0831.png)
 
 
 ## How to run:
