@@ -25,7 +25,7 @@ Specifically, we formulate the feature transformation task as an iterative, nest
 ***
 
 
-[Model Overview](https://github.com/coco11563/Traceable_Automatic_Feature_Transformation_via_Cascading_Actor-Critic_Agents/files/10320281/model_overall.pdf)
+![avatar](https://github.com/coco11563/Traceable_Automatic_Feature_Transformation_via_Cascading_Actor-Critic_Agents/files/10320281/model_overall.pdf)
 
 
 ## How to run:
