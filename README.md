@@ -14,7 +14,7 @@ Meng Xiao, Dongjie Wang, Min Wu, Ziyue Qiao, Pengfei Wang, Kunpeng Liu, Yuanchun
 
 Recommended Bib:
 ```
-@article{xiao2022raft,
+@InProceedings{xiao2022raft,
   title={Traceable Automatic Feature Transformation via Cascading Actor-Critic Agents},
   author = {Xiao, Meng and Wang, Dongjie and Wu, Min and Qiao, Ziyue and Wang, Pengfei and Liu, Kunpeng and Zhou, Yuanchun and Fu, Yanjie},
   journal={SIAM International Conference on Data Mining 2023},
