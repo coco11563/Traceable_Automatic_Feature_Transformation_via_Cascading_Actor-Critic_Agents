@@ -14,11 +14,30 @@ Meng Xiao, Dongjie Wang, Min Wu, Ziyue Qiao, Pengfei Wang, Kunpeng Liu, Yuanchun
 
 Recommended Bib:
 ```
+RAFT paper:
 @InProceedings{xiao2022raft,
   title={Traceable Automatic Feature Transformation via Cascading Actor-Critic Agents},
   author = {Xiao, Meng and Wang, Dongjie and Wu, Min and Qiao, Ziyue and Wang, Pengfei and Liu, Kunpeng and Zhou, Yuanchun and Fu, Yanjie},
   journal={SIAM International Conference on Data Mining 2023},
   year={2023}
+}
+KDD version bib:
+@InProceedings{wang2022group,
+  title={Group-wise Reinforcement Feature Generation for Optimal and Explainable Representation Space Reconstruction},
+  author={Wang, Dongjie and Fu, Yanjie and Liu, Kunpeng and Li, Xiaolin and Solihin, Yan},
+  journal={The 28-th ACM SIGKDD Conference},
+  year={2022}
+}
+KDD extended paper:
+@article{xiao2024traceable,
+  title={Traceable group-wise self-optimizing feature transformation learning: A dual optimization perspective},
+  author={Xiao, Meng and Wang, Dongjie and Wu, Min and Liu, Kunpeng and Xiong, Hui and Zhou, Yuanchun and Fu, Yanjie},
+  journal={ACM Transactions on Knowledge Discovery from Data},
+  volume={18},
+  number={4},
+  pages={1--22},
+  year={2024},
+  publisher={ACM New York, NY}
 }
 ```
 ***
